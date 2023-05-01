@@ -1,2 +1,2 @@
 # PowerShell_Scripts
-Some PS scripts for system interegation
+Some PS scripts for system interrogation
