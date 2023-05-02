@@ -9,3 +9,6 @@ Checks the Run and RunOnce of the NTUser.dat of each user, if the user is logged
 
 ## Startup Folder Checker
 Checks the Startup folder in AppData\Roaming for known executable extensions then provides the SHA256 sum of any findings
+
+## SVCHost Enumeration
+Checks against 'known good' SVCHost arguments, then uses tasklist to help identify the service details of the remaining processes
